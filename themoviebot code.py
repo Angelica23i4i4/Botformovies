@@ -14,7 +14,7 @@ class ClientState(StatesGroup):
     EXACTING = State()
 
 
-TOKEN = "6410220503:AAHR_NDwWtRATddqfapMY1UTwTl0FsHwoUc"
+TOKEN = "The bot token"
 
 
 # Redisstorage
